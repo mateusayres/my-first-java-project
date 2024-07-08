@@ -1,4 +1,4 @@
-# My-First-Java-Project
+# My-First-Java-Project <img align="center" alt="mateusayres-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 My first structured code project in Java.
 A Jokenpo game in which you can play with your partner or not.
