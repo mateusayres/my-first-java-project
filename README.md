@@ -11,3 +11,6 @@ Meu primeiro projeto de código procedural em Java.
 
 Um jogo de Jokenpo no qual você pode jogar com seu parceiro ou não.
 Divirta-se!
+
+Preview: <br><br>
+![Jokenpo](https://github.com/mateusayres/my-first-java-project/assets/168099824/48bb7cd8-9109-4e0a-a81a-fffd01d739af)
